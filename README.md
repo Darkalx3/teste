@@ -1,3 +1,3 @@
 # Readme de Teste
 
-Esse é um readme de teste para um projeto base do gitfdf
+Esse é um readme de tesara um projeto base do gitfdf
